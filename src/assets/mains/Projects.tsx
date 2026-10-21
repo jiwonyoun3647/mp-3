@@ -4,6 +4,7 @@ import Calculator from "../components/Calculator.tsx";
 export default function Projects() {
     return(
         <>
+            <title>Projects | Youn's Resume</title>
             <h3><strong>Projects</strong></h3>
             <p>
                 <strong>C IMAGE PROCESSING & BARCODE GENERATOR</strong>

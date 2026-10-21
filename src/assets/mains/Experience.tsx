@@ -2,6 +2,7 @@
 export default function Experience() {
     return(
         <>
+            <title>Experience | Youn's Resume</title>
             <h3><strong>Work Experience</strong></h3>
             <p>
                 <strong><u>HYPERDYNE Inc.</u></strong>

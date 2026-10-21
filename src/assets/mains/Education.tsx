@@ -12,6 +12,7 @@ const StyledLogo = styled.div`
 export default function Education() {
     return(
         <>
+            <title>Education | Youn's Resume</title>
             <h3><strong>Education</strong></h3>
             <StyledLogo>
                 <img src="/bu_logo.png" alt="university-logo"/>

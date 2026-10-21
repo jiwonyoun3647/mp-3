@@ -1,6 +1,7 @@
 export default function Contact() {
     return (
         <>
+            <title>Contact | Youn's Resume</title>
             <h3><strong>Contact</strong></h3>
 
             <p>

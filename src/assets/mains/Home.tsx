@@ -10,6 +10,7 @@ const StyledMe = styled.img`
 export default function Home() {
     return(
         <>
+            <title>Home | Youn's Resume</title>
             <h3><strong>Home</strong></h3>
             <StyledMe src="my_img.jpeg" alt="Jiwon Youn Photo"/>
             <p>My name is Jiwon Youn, and I'm a student at Boston University majoring in Computer Science and minoring

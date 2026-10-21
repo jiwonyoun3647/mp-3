@@ -14,6 +14,7 @@ const StyledLangLogos = styled.div`
 export default function Skills() {
     return(
         <>
+            <title>Skills | Youn's Resume</title>
             <h3><strong>Technical Skills & Coursework</strong></h3>
             <StyledLangLogos>
                 <img src="../../../public/python_logo.png" alt="Python Logo"/>

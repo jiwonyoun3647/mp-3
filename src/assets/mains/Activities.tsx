@@ -1,6 +1,7 @@
 export default function Activities() {
     return (
         <>
+            <title>Activities | Youn's Resume</title>
             <h3><strong>Clubs & Activities</strong></h3>
             <p>
                 <strong><u>BU LINK</u></strong>
