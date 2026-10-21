@@ -17,9 +17,9 @@ export default function Skills() {
             <title>Skills | Youn's Resume</title>
             <h3><strong>Technical Skills & Coursework</strong></h3>
             <StyledLangLogos>
-                <img src="../../../public/python_logo.png" alt="Python Logo"/>
-                <img src="../../../public/java_logo.png" alt="Java Logo"/>
-                <img src="../../../public/c_logo.png" alt="C Logo"/>
+                <img src="/python_logo.png" alt="Python Logo"/>
+                <img src="/java_logo.png" alt="Java Logo"/>
+                <img src="/c_logo.png" alt="C Logo"/>
             </StyledLangLogos>
 
             <p>

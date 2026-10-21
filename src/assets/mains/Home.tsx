@@ -12,7 +12,7 @@ export default function Home() {
         <>
             <title>Home | Youn's Resume</title>
             <h3><strong>Home</strong></h3>
-            <StyledMe src="my_img.jpeg" alt="Jiwon Youn Photo"/>
+            <StyledMe src="/my_img.jpeg" alt="Jiwon Youn Photo"/>
             <p>My name is Jiwon Youn, and I'm a student at Boston University majoring in Computer Science and minoring
                 in Economics.
                 <br/>I have strong interests in automation system integrating with LLMs and backend infrastructure.
